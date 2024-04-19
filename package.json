@@ -15,7 +15,7 @@
     "@emotion/server": "11.11.0",
     "@emotion/styled": "11.11.0",
     "@fullstory/browser": "^1.7.1",
-    "@lidojs/color-picker": "^1.2.2",
+    "@lidojs/color-picker": "^1.0.0",
     "@lidojs/design-core": "^1.2.2",
     "@lidojs/design-editor": "^1.2.2",
     "@lidojs/design-screen": "^1.2.2",
